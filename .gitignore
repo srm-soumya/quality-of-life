@@ -1,0 +1,6 @@
+# Data directory
+data/**
+!data/.gitkeep
+
+# Jupyter notebooks
+nbs/
